@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Mobile Anime List</string>
 
+    <string name="anime_title">Anime Title</string>
+    <string name="anime_img_desc">An image of an anime</string>
+
     <string name="review_title">Anime Title</string>
     <string name="review_episode">Episode N</string>
     <string name="by_line">by </string>
