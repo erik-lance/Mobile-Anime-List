@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Mobile Anime List</string>
 
+    <string name="fall_anime_title">Fall 2023 Anime</string>
+    <string name="latest_review_title">Latest Episode Reviews</string>
+
     <string name="anime_title">Anime Title</string>
     <string name="anime_img_desc">An image of an anime</string>
 
