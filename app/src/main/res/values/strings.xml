@@ -9,7 +9,7 @@
 
     <string name="review_title">Anime Title</string>
     <string name="review_episode">Episode N</string>
-    <string name="by_line">by </string>
+    <string name="by_line">by &#032;</string>
     <string name="review_author">Author</string>
     <string name="review_score">4.5/5.0</string>
 </resources>
