@@ -1,4 +1,4 @@
-// insert your package name here
+package com.mobdeve.s13.tiongquico.erik.exercise2
 
 class Episode(title : String, anime : AnimeTitle) {
     var title = title

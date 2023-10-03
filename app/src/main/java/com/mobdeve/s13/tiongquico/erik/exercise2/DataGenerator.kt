@@ -1,4 +1,4 @@
-// insert your package name here
+package com.mobdeve.s13.tiongquico.erik.exercise2
 
 class DataGenerator {
     companion object {

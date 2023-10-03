@@ -1,4 +1,4 @@
-// insert your package name here
+package com.mobdeve.s13.tiongquico.erik.exercise2
 
 class Review(username: String, rating : Double, episode : Episode) {
     var username = username
