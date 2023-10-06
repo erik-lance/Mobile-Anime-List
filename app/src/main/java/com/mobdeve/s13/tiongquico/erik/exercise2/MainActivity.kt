@@ -23,9 +23,6 @@ class MainActivity : AppCompatActivity() {
 
         viewBinding.titlesRv.layoutManager = animeLinearLayoutManager
 
-        val animeSnapHelper: SnapHelper = PagerSnapHelper()
-        animeSnapHelper.attachToRecyclerView(viewBinding.titlesRv)
-
         // Reviews
 
         // Set the adapter (logic has been compressed into one line)
@@ -37,9 +34,6 @@ class MainActivity : AppCompatActivity() {
 
         // Set the LayoutManager
         viewBinding.episodesRv.layoutManager = episodesLinearLayoutManager
-
-        val episodesSnapHelper: SnapHelper = PagerSnapHelper()
-        episodesSnapHelper.attachToRecyclerView(viewBinding.episodesRv)
 
     }
 }
